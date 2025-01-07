@@ -10,7 +10,7 @@ The website is live at: [KL University Aziz Nagar Hyderabad](https://kluniversit
 ## 🚀 Features  
 - **Responsive Design:** Optimized for desktop, tablet, and mobile devices.  
 - **User-Friendly Navigation:** Easy-to-access sections for programs, facilities, and events.  
-- **Modern Web Technologies:** Built using HTML, CSS, and JavaScript (or frameworks if used).  
+- **Modern Web Technologies:**  
 - **Fast and Reliable Hosting:** Hosted on Netlify for a seamless user experience.  
 - **Version Control:** Git and GitHub  
 
